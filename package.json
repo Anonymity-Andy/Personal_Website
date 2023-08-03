@@ -1,0 +1,25 @@
+{
+  "name": "website",
+  "version": "2.0.0",
+  "description": "For personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anonymity-Andy/Personal_Website.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anonymity-Andy/Personal_Website/issues"
+  },
+  "homepage": "https://github.com/Anonymity-Andy/Personal_Website#readme",
+  "devDependencies": {
+    "chromatic": "^6.19.9"
+  }
+}
