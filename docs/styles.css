@@ -35,10 +35,12 @@ body {
     bottom: 0;
     left: 0;
     width: 100%;
-    background-color: hsl(0, 0%, 69%);
+    background-color: hsl(0, 0%, 80%);
     padding: 10px;
     display: flex;
     justify-content: center;
+    opacity: 0; /* 初始时设置透明度为 0，让 .footer 元素隐藏 */
+    transition: opacity 0.5s ease; /* 添加过渡效果 */
 }
 
 .footer img {
